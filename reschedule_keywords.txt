@@ -1,0 +1,1 @@
+reschedule, change appointment, modify appointment, postpone appointment, rebook, cancel, alter appointment
